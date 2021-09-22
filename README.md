@@ -1,6 +1,8 @@
 안녕하세요! 나만의 꿈을 키워나가는 작은 개발자 하민규 입니다.\
 Hello There! I'm Ha Mingyu, a developer who develops his own small dreams.
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 Skill
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
