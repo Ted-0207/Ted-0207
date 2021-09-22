@@ -32,8 +32,7 @@
  
  <br>
  <br>
- 
- 
+
    <div align=center>
   You can also visit my other site.<br>
   버튼을 클릭하면 해당 프로필로 이동합니다.
