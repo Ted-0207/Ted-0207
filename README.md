@@ -3,7 +3,7 @@
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
 | DevOps (AWS/Docker/Kubernetes) | Game Dev(Unreal Engine 4) |
-  
+   
   <div align=center>
   
   [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Ted-0207/)](https://github.com/Ted-0207/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/min-gyu-ha-905105221/)](https://www.linkedin.com/in/min-gyu-ha-905105221/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&linkhttps://www.youtube.com/channel/UCm5AZh2AJa04wwfmmqna1-Q)](https://www.youtube.com/channel/UCm5AZh2AJa04wwfmmqna1-Q) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008429832045)](https://www.facebook.com/profile.php?id=100008429832045) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkalsrb02@gmail.com)](mailto:gkalsrb02@gmail.com)
