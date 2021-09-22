@@ -1,27 +1,37 @@
-안녕하세요! 나만의 꿈을 키워나가는 작은 개발자 하민규 입니다.\
-Hello There! I'm Ha Mingyu, a developer who develops his own small dreams.
+<h4>👋안녕하세요! 나만의 꿈을 키워나가는 작은 개발자 하민규 입니다.
+<br>
+👋Hello There! I'm Ha Mingyu, a lil developer who develops my own dreams.</h4>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+<br>
+<br>
 
-Skill
+<h4>Skill</h4>
+
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
 | DevOps (AWS/Docker/Kubernetes) | Game Dev(Unreal Engine 4) |
 
-Career
+<h4>Career</h4>
+
 | Job | Period | Group |
 | :---:|:---:|:---: |
 | Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Captain |
 
-Study
+<h4>Study</h4>
 
 | School | Period | Group |
 | :---:|:---:|:---: |
 | KNOU(Korea National Open University) | 2021.03 ~ Attending | Computer Science |
 | Pungmu Highschool | 2018.03 ~ 2021.01 |  |
-   
+
+<br>
+<br>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ted-0207)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ <br>
  
    <div align=center>
   
