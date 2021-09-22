@@ -1,14 +1,22 @@
-안녕하세요! 나만의 꿈을 키워나가는 작은 개발자입니다.
+안녕하세요! 나만의 꿈을 키워나가는 작은 개발자 하민규 입니다.\
+Hello There! I'm Ha Mingyu, a developer who develops his own small dreams.
 
+Skill
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
 | DevOps (AWS/Docker/Kubernetes) | Game Dev(Unreal Engine 4) |
 
-| Career | Period | Group |
+Career
+| Job | Period | Group |
 | :---:|:---:|:---: |
-|   |   |   |
-   
+| Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Captain |
 
+Study
+
+| School | Period | Group |
+| :---:|:---:|:---: |
+| KNOU(Korea National Open University) | 2021.03 ~ Attending | Computer Science |
+| Pungmu Highschool | 2018.03 ~ 2021.01 |  |
    
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ted-0207)](https://github.com/anuraghazra/github-readme-stats)
