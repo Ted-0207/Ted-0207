@@ -16,16 +16,20 @@
 
 | Job | Period | Group |
 | :---:|:---:|:---: |
-| Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Captain |
+| [Kkutu.io](https://kkutu.io/)| 2020.08 ~ |  Development team |
+| Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Club Captain |
 
 <h3>Study</h3>
 
 | School | Period | Group |
 | :---:|:---:|:---: |
-| KNOU(Korea National Open University) | 2021.03 ~ Attending | Computer Science |
+| KNOU(Korea National Open University) | 2021.03 ~ | Computer Science |
 | Pungmu Highschool | 2018.03 ~ 2021.01 |  |
 
 <br>
+<br>
+
+<img width="45%" src="https://user-images.githubusercontent.com/56721888/134790215-c87476e7-4d50-4fa9-9848-a99ccf184940.png"/>
 <br>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ted-0207)](https://github.com/anuraghazra/github-readme-stats)
