@@ -10,7 +10,7 @@
 
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
-| DevOps (AWS/Docker/Kubernetes) | Game Dev(Unreal Engine 4) |
+| DevOps (AWS/Docker/Kubernetes), Python | Game Dev(Unreal Engine 4) |
 
 <h3>Career</h3>
 
