@@ -1,4 +1,4 @@
-<h3>👋안녕하세요! 나만의 꿈을 키워나가는 작은 개발자 하민규 입니다.
+<h3>👋안녕하세요! 아주 작은 개미 개발자 하민규 입니다.
 <br>
 👋Hello There! I'm Ha Mingyu, a lil developer who develops my own dreams.</h3>
 
