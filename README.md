@@ -8,12 +8,13 @@
 
 | Main Skill | Sub Skill(Hobby) |
 | :---:|:---: |
-| DevOps (AWS/Docker/Kubernetes), Python | Game Dev(Unreal Engine 4) |
+| DevOps (AWS/Docker/Kubernetes), Python, PHP | Game Dev(Unreal Engine 4) |
 
 <h3>Career</h3>
 
 | Job | Period | Group |
 | :---:|:---:|:---: |
+| [(주)북팔코믹스](http://corp.bookpalcomics.com/)|2021.12 ~ | PHP Engineer |
 | [Kkutu.io](https://kkutu.io/)| 2020.08 ~ |  Development team |
 | Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Club Captain |
 
