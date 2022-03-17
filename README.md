@@ -1,20 +1,21 @@
 <h3>👋</h3>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br> 
 <br>
 
 <h3>Skill</h3>
 
-| Main Skill | Sub Skill(Hobby) |
+| Main skill | Sub skill(as hobby) |
 | :---:|:---: |
-| PHP, AWS/Docker/Kubernetes, Python, | Unreal Engine 4 |
+| Python, Unity, C4D, PHP | Unreal Engine 4 |
 
 <h3>Career</h3>
 
 | Job | Period | Group |
 | :---:|:---:|:---: |
-| [(주)북팔코믹스](http://corp.bookpalcomics.com/)|2021.12 ~ 2022.03| PHP Engineer |
+| [MIDKEES](http://www.midkees.com/)| 2022.03 ~ | Unity/C4D Developer |
+| [(주)북팔코믹스](http://corp.bookpalcomics.com/)| 2021.12 ~ 2022.03 | PHP Engineer |
 | [Kkutu.io](https://kkutu.io/)| 2020.08 ~ |  Development team |
 | Pungmu Highschool | 2019.03 ~ 2020.01 | PCP(Pungmu Computer Project) Club Captain |
 
